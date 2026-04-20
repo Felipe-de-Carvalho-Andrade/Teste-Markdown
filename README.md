@@ -28,59 +28,71 @@
 
 <div align="center">
 
-<table style="border-collapse: separate; border-spacing: 20px;">
-  
+<table style="border-collapse: separate; border-spacing: 30px;">
+
   <tr>
     <td align="center">
       <strong>Persona 1</strong><br>
-      <img src="img/Persona_01.png" style="width:380px; height:auto; border-radius:8px;"><br><br>
+      <img src="img/Persona_01.png" style="width:350px; height:auto; border-radius:8px;">
+    </td>
+    <td align="center">
       <strong>Mapa de Empatia</strong><br>
-      <img src="img/Mapa_Empatia_01.png" style="width:380px; height:auto; border-radius:8px;">
+      <img src="img/Mapa_Empatia_01.png" style="width:350px; height:auto; border-radius:8px;">
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <strong>Persona 2</strong><br>
-      <img src="img/Persona_02.png" style="width:380px; height:auto; border-radius:8px;"><br><br>
+      <img src="img/Persona_02.png" style="width:350px; height:auto; border-radius:8px;">
+    </td>
+    <td align="center">
       <strong>Mapa de Empatia</strong><br>
-      <img src="img/Mapa_Empatia_02.png" style="width:380px; height:auto; border-radius:8px;">
+      <img src="img/Mapa_Empatia_02.png" style="width:350px; height:auto; border-radius:8px;">
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <strong>Persona 3</strong><br>
-      <img src="img/Persona_03.png" style="width:380px; height:auto; border-radius:8px;"><br><br>
+      <img src="img/Persona_03.png" style="width:350px; height:auto; border-radius:8px;">
+    </td>
+    <td align="center">
       <strong>Mapa de Empatia</strong><br>
-      <img src="img/Mapa_Empatia_03.png" style="width:380px; height:auto; border-radius:8px;">
+      <img src="img/Mapa_Empatia_03.png" style="width:350px; height:auto; border-radius:8px;">
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <strong>Persona 4</strong><br>
-      <img src="img/Persona_04.png" style="width:380px; height:auto; border-radius:8px;"><br><br>
+      <img src="img/Persona_04.png" style="width:350px; height:auto; border-radius:8px;">
+    </td>
+    <td align="center">
       <strong>Mapa de Empatia</strong><br>
-      <img src="img/Mapa_Empatia_04.png" style="width:380px; height:auto; border-radius:8px;">
+      <img src="img/Mapa_Empatia_04.png" style="width:350px; height:auto; border-radius:8px;">
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <strong>Persona 5</strong><br>
-      <img src="img/Persona_05.png" style="width:380px; height:auto; border-radius:8px;"><br><br>
+      <img src="img/Persona_05.png" style="width:350px; height:auto; border-radius:8px;">
+    </td>
+    <td align="center">
       <strong>Mapa de Empatia</strong><br>
-      <img src="img/Mapa_Empatia_05.png" style="width:380px; height:auto; border-radius:8px;">
+      <img src="img/Mapa_Empatia_05.png" style="width:350px; height:auto; border-radius:8px;">
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <strong>Persona 6</strong><br>
-      <img src="img/Persona_06.png" style="width:380px; height:auto; border-radius:8px;"><br><br>
+      <img src="img/Persona_06.png" style="width:350px; height:auto; border-radius:8px;">
+    </td>
+    <td align="center">
       <strong>Mapa de Empatia</strong><br>
-      <img src="img/Mapa_Empatia_06.png" style="width:380px; height:auto; border-radius:8px;">
+      <img src="img/Mapa_Empatia_06.png" style="width:350px; height:auto; border-radius:8px;">
     </td>
   </tr>
 
