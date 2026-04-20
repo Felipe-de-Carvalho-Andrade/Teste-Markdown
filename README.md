@@ -2,70 +2,130 @@
 
 <details>
   <summary><b>Clique para ver as Personas</b></summary>
-  <br>
 
-| Persona 1 | Persona 2 | Persona 3 |
-| :---: | :---: | :---: |
-| <img src="img/1.png" width="200"> | <img src="img/2.png" width="200"> | <img src="img/3.png" width="200"> |
+<div align="center">
 
-| Persona 4 | Persona 5 | Persona 6 |
-| :---: | :---: | :---: |
-| <img src="img/4.png" width="200"> | <img src="img/5.png" width="200"> | <img src="img/6.png" width="200"> |
+<table>
+  <tr>
+    <th>Persona 1</th>
+    <th>Persona 2</th>
+    <th>Persona 3</th>
+  </tr>
+  <tr>
+    <td><img src="img/1.png" style="width:260px; height:auto;"></td>
+    <td><img src="img/2.png" style="width:260px; height:auto;"></td>
+    <td><img src="img/3.png" style="width:260px; height:auto;"></td>
+  </tr>
+
+  <tr>
+    <th>Persona 4</th>
+    <th>Persona 5</th>
+    <th>Persona 6</th>
+  </tr>
+  <tr>
+    <td><img src="img/4.png" style="width:260px; height:auto;"></td>
+    <td><img src="img/5.png" style="width:260px; height:auto;"></td>
+    <td><img src="img/6.png" style="width:260px; height:auto;"></td>
+  </tr>
+</table>
+
+</div>
 
 </details>
 
 ---
 
-## Comparação 3 — Três Personas por Linha (Maior Densidade)
+## Comparação 3 — Três Personas por Linha (Máxima Densidade)
 
-| Persona 1 | Persona 2 | Persona 3 |
-| :---: | :---: | :---: |
-| <img src="img/1.png" width="200"> | <img src="img/2.png" width="200"> | <img src="img/3.png" width="200"> |
+<div align="center">
 
-| Persona 4 | Persona 5 | Persona 6 |
-| :---: | :---: | :---: |
-| <img src="img/4.png" width="200"> | <img src="img/5.png" width="200"> | <img src="img/6.png" width="200"> |
+<table>
+  <tr>
+    <th>Persona 1</th>
+    <th>Persona 2</th>
+    <th>Persona 3</th>
+  </tr>
+  <tr>
+    <td><img src="img/1.png" style="width:320px; height:auto;"></td>
+    <td><img src="img/2.png" style="width:320px; height:auto;"></td>
+    <td><img src="img/3.png" style="width:320px; height:auto;"></td>
+  </tr>
+
+  <tr>
+    <th>Persona 4</th>
+    <th>Persona 5</th>
+    <th>Persona 6</th>
+  </tr>
+  <tr>
+    <td><img src="img/4.png" style="width:320px; height:auto;"></td>
+    <td><img src="img/5.png" style="width:320px; height:auto;"></td>
+    <td><img src="img/6.png" style="width:320px; height:auto;"></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ## Comparação 2 — Duas Personas por Linha (Equilíbrio)
 
-| Persona 1 | Persona 2 |
-| :---: | :---: |
-| <img src="img/1.png" width="260"> | <img src="img/2.png" width="260"> |
+<div align="center">
 
-| Persona 3 | Persona 4 |
-| :---: | :---: |
-| <img src="img/3.png" width="260"> | <img src="img/4.png" width="260"> |
+<table>
+  <tr>
+    <th>Persona 1</th>
+    <th>Persona 2</th>
+  </tr>
+  <tr>
+    <td><img src="img/1.png" style="width:380px; height:auto;"></td>
+    <td><img src="img/2.png" style="width:380px; height:auto;"></td>
+  </tr>
 
-| Persona 5 | Persona 6 |
-| :---: | :---: |
-| <img src="img/5.png" width="260"> | <img src="img/6.png" width="260"> |
+  <tr>
+    <th>Persona 3</th>
+    <th>Persona 4</th>
+  </tr>
+  <tr>
+    <td><img src="img/3.png" style="width:380px; height:auto;"></td>
+    <td><img src="img/4.png" style="width:380px; height:auto;"></td>
+  </tr>
+
+  <tr>
+    <th>Persona 5</th>
+    <th>Persona 6</th>
+  </tr>
+  <tr>
+    <td><img src="img/5.png" style="width:380px; height:auto;"></td>
+    <td><img src="img/6.png" style="width:380px; height:auto;"></td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ## Comparação 1 — Uma Persona por Linha (Foco Máximo)
 
-| Persona 1 |
-| :---: |
-| <img src="img/1.png" width="320"> |
+<div align="center">
 
-| Persona 2 |
-| :---: |
-| <img src="img/2.png" width="320"> |
+<table>
+  <tr><th>Persona 1</th></tr>
+  <tr><td><img src="img/1.png" style="width:520px; height:auto;"></td></tr>
 
-| Persona 3 |
-| :---: |
-| <img src="img/3.png" width="320"> |
+  <tr><th>Persona 2</th></tr>
+  <tr><td><img src="img/2.png" style="width:520px; height:auto;"></td></tr>
 
-| Persona 4 |
-| :---: |
-| <img src="img/4.png" width="320"> |
+  <tr><th>Persona 3</th></tr>
+  <tr><td><img src="img/3.png" style="width:520px; height:auto;"></td></tr>
 
-| Persona 5 |
-| :---: |
-| <img src="img/5.png" width="320"> |
+  <tr><th>Persona 4</th></tr>
+  <tr><td><img src="img/4.png" style="width:520px; height:auto;"></td></tr>
 
-| Persona 6 |
-| :---: |
-| <img src="img/6.png" width="320"> |
+  <tr><th>Persona 5</th></tr>
+  <tr><td><img src="img/5.png" style="width:520px; height:auto;"></td></tr>
+
+  <tr><th>Persona 6</th></tr>
+  <tr><td><img src="img/6.png" style="width:520px; height:auto;"></td></tr>
+</table>
+
+</div>
