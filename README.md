@@ -11,13 +11,13 @@
 ### Matriz CSD
 
 <div align="center">
-  <img src="img/Matriz_CSD.png" style="width:90%; max-width:1000px; height:auto; border-radius:8px;">
+  <img src="images/Matriz_CSD.png" alt="Matriz CSD" style="width:100%; max-width:900px; border-radius:8px;">
 </div>
 
 ### Mapa de Stakeholders
 
 <div align="center">
-  <img src="img/Mapa_Stakeholders.png" style="width:90%; max-width:1000px; height:auto; border-radius:8px;">
+  <img src="images/Mapa_Stakeholders.png" alt="Mapa de Stakeholders" style="width:100%; max-width:900px; border-radius:8px;">
 </div>
 
 --- 
@@ -26,76 +26,11 @@
 
 ### Personas
 
-<div align="center">
-
-<table style="border-collapse: separate; border-spacing: 30px;">
-
-  <tr>
-    <td align="center">
-      <strong>Persona 1</strong><br>
-      <img src="img/Persona_01.png" style="width:350px; height:auto; border-radius:8px;">
-    </td>
-    <td align="center">
-      <strong>Mapa de Empatia</strong><br>
-      <img src="img/Mapa_Empatia_01.png" style="width:350px; height:auto; border-radius:8px;">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <strong>Persona 2</strong><br>
-      <img src="img/Persona_02.png" style="width:350px; height:auto; border-radius:8px;">
-    </td>
-    <td align="center">
-      <strong>Mapa de Empatia</strong><br>
-      <img src="img/Mapa_Empatia_02.png" style="width:350px; height:auto; border-radius:8px;">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <strong>Persona 3</strong><br>
-      <img src="img/Persona_03.png" style="width:350px; height:auto; border-radius:8px;">
-    </td>
-    <td align="center">
-      <strong>Mapa de Empatia</strong><br>
-      <img src="img/Mapa_Empatia_03.png" style="width:350px; height:auto; border-radius:8px;">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <strong>Persona 4</strong><br>
-      <img src="img/Persona_04.png" style="width:350px; height:auto; border-radius:8px;">
-    </td>
-    <td align="center">
-      <strong>Mapa de Empatia</strong><br>
-      <img src="img/Mapa_Empatia_04.png" style="width:350px; height:auto; border-radius:8px;">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <strong>Persona 5</strong><br>
-      <img src="img/Persona_05.png" style="width:350px; height:auto; border-radius:8px;">
-    </td>
-    <td align="center">
-      <strong>Mapa de Empatia</strong><br>
-      <img src="img/Mapa_Empatia_05.png" style="width:350px; height:auto; border-radius:8px;">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <strong>Persona 6</strong><br>
-      <img src="img/Persona_06.png" style="width:350px; height:auto; border-radius:8px;">
-    </td>
-    <td align="center">
-      <strong>Mapa de Empatia</strong><br>
-      <img src="img/Mapa_Empatia_06.png" style="width:350px; height:auto; border-radius:8px;">
-    </td>
-  </tr>
-
-</table>
-
-</div>
+| Persona | Mapa de Empatia |
+| :---: | :---: |
+| <img src="images/Persona_01.png" alt="Persona 1" width="400" style="border-radius:8px;"> | <img src="images/Mapa_Empatia_01.png" alt="Mapa de Empatia 1" width="400" style="border-radius:8px;"> |
+| <img src="images/Persona_02.png" alt="Persona 2" width="400" style="border-radius:8px;"> | <img src="images/Mapa_Empatia_02.png" alt="Mapa de Empatia 2" width="400" style="border-radius:8px;"> |
+| <img src="images/Persona_03.png" alt="Persona 3" width="400" style="border-radius:8px;"> | <img src="images/Mapa_Empatia_03.png" alt="Mapa de Empatia 3" width="400" style="border-radius:8px;"> |
+| <img src="images/Persona_04.png" alt="Persona 4" width="400" style="border-radius:8px;"> | <img src="images/Mapa_Empatia_04.png" alt="Mapa de Empatia 4" width="400" style="border-radius:8px;"> |
+| <img src="images/Persona_05.png" alt="Persona 5" width="400" style="border-radius:8px;"> | <img src="images/Mapa_Empatia_05.png" alt="Mapa de Empatia 5" width="400" style="border-radius:8px;"> |
+| <img src="images/Persona_06.png" alt="Persona 6" width="400" style="border-radius:8px;"> | <img src="images/Mapa_Empatia_06.png" alt="Mapa de Empatia 6" width="400" style="border-radius:8px;"> |
